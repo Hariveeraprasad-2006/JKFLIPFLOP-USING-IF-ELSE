@@ -46,7 +46,7 @@ step-5 : Give inputs in the waveform table .
 step-6 : Run the program.
 
 **PROGRAM**
-/* Program for flipflops and verify its truth table in quartus using Verilog programming.
+``` Program for flipflops and verify its truth table in quartus using Verilog programming.
  Developed by: ARIKATLA HARI VEERA PRASAD
  Register Number: 212223240014
 
@@ -87,7 +87,7 @@ begin
 end  
 endmodule
 
-*/
+```
 
 **RTL LOGIC FOR FLIPFLOPS**
 ![image](https://github.com/Hariveeraprasad-2006/JKFLIPFLOP-USING-IF-ELSE/assets/145049988/5976d2d6-97d2-48d4-8a16-a6559f00aa91)
